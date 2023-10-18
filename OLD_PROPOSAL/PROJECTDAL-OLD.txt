@@ -1,3 +1,0 @@
-2ND - https://www.kaggle.com/datasets/imakash3011/customer-personality-analysis/code
-1ST - https://www.kaggle.com/datasets/ayessa/salary-prediction-classification
-3RD - https://www.kaggle.com/datasets/mdwaquarazam/shoe-dataset
