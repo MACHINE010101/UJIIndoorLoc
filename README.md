@@ -1,5 +1,5 @@
 # UJIIndoorLoc
-
+### Author: Eduard Pascale
 The UJIIndoorLoc Data Set is a collection of WiFi signals data collected from access points placed in different indoor locations, such as offices, classrooms, and corridors. The data has been preprocessed to extract a set of features related to signal strength, position, and orientation, and it includes measurements of signal strengths from 520 access points. The goal of the dataset is to predict the indoor location of a person based on the received WiFi signals. The dataset has 19,937 instances and 529 features, making it a useful resource for indoor localization and navigation tasks, including classification, clustering, and regression.
 
 source: https://archive.ics.uci.edu/ml/datasets/UJIIndoorLoc
